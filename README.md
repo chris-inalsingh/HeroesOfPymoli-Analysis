@@ -1,6 +1,6 @@
-# pandas-challenge
+# Heroes of Pymoli
 
-The following repository includes the pandas challenge for HeroesOfPymoli. It includes a report with various calculations using pandas library on jupyter notebook.
+The following repository includes the Heroes Of Pymoli Analysis. It includes a report with various calculations using pandas library on jupyter notebook.
 
 ## Observable Trends
 
